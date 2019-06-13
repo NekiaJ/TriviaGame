@@ -1,0 +1,36 @@
+#body{
+    background-color: rgb(205, 247, 247);
+}
+
+
+#wrapper{
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.btn-success{
+    color: #fff;
+    background-color:rgb(59, 230, 236);
+}
+#container{
+    margin: 20px auto;
+    padding: 10px 0 px;
+    background-color:rgba(145, 108, 247, 0.623);
+    width: 900px;
+    text-align: center;
+    font-size: 25px;
+
+}
+#timerDiv{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#trivQuest{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#answerDiv{
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
