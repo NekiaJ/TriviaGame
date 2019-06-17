@@ -1,36 +1,49 @@
-#body{
-    background-color: rgb(205, 247, 247);
-}
+
 
 
 #wrapper{
     margin: 0 auto;
-    text-align: center;
-    font-weight: bold;
+    
     
 }
-.btn-success{
-    color: #fff;
-    background-color:rgb(59, 230, 236);
+h1 {
+    font-family: 'Faster One', cursive;
+    text-align: center;
+    font-size: 24px;
 }
 #container{
     margin: 20px auto;
-    padding: 10px 0 px;
-    background-color:rgba(145, 108, 247, 0.623);
+    padding: 10px 0px;
+    background-color:rgba(145, 108, 247, 0.267);
     width: 900px;
     text-align: center;
-    font-size: 25px;
+    }
+
+
+p{
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-success{
+    color: #fff;
+    background-color:rgb(46, 176, 180);
+}
+
+#timerDiv{
+    
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
-#timerDiv{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-#trivQuest{
+#questionDiv{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
+    
 }
 #answerDiv{
     margin: auto;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 18px;
+    font-size: 12px;
 }
+
+
